@@ -1,2 +1,5 @@
 # Zava-compliance
-[FlowLens Demo] Regulatory compliance tracking — Team: Compliance, Group: Enterprise Apps
+
+Regulatory compliance tracking
+
+Update 1 by James Chen
