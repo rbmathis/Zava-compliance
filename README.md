@@ -2,4 +2,4 @@
 
 Regulatory compliance tracking
 
-Update 3 by Raj Patel
+Update 4 by Emily Johansson
